@@ -23,6 +23,10 @@ Win10:
 3.7
 https://www.python.org/downloads/
 
+Win - pip:
+https://www.liquidweb.com/kb/install-pip-windows/
+
+
 LINUX:
 3.8 beta
 
