@@ -34,3 +34,7 @@ LINUX:
 Android:
 Pydroid3
 QPython3
+
+---
+Pygame:
+https://www.pygame.org/download.shtml
