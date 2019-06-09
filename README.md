@@ -2,6 +2,10 @@
 simple Python test - win / linux / android
 
 <pre>
+>>> import sys
+>>> print(sys.version)
+> ver
+
 >>> help("modules package")
 > installed packages in the Python shell
   
