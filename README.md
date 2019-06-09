@@ -16,11 +16,10 @@ simple Python test - win / linux / android
 
 ---
 
-Win7
+Win7: 3.2
 http://www.openbookproject.net/courses/webappdev/units/softwaredesign/resources/install_python_win7.html
-3.2
 
-Win10
+Win10:
 3.8
 
 LINUX:
