@@ -23,7 +23,8 @@ Win10:
 3.7
 https://www.python.org/downloads/
 
-Win - pip:
+pip:
+https://pip.pypa.io/en/stable/installing/#do-i-need-to-install-pip
 https://www.liquidweb.com/kb/install-pip-windows/
 
 
