@@ -22,3 +22,10 @@ http://www.openbookproject.net/courses/webappdev/units/softwaredesign/resources/
 
 Win10
 3.8
+
+LINUX:
+3.8
+
+Android:
+Pydroid3
+QPython3
