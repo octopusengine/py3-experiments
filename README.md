@@ -20,10 +20,11 @@ Win7: 3.2
 http://www.openbookproject.net/courses/webappdev/units/softwaredesign/resources/install_python_win7.html
 
 Win10:
-3.8
+3.7
+https://www.python.org/downloads/
 
 LINUX:
-3.8
+3.8 beta
 
 Android:
 Pydroid3
